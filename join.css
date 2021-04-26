@@ -1,0 +1,75 @@
+        body {
+            background-color: cadetblue;
+        }
+        
+        .login {
+            margin-top: 100px;
+            margin-left: 450px;
+            margin-right: 450px;
+            background-color: teal;
+            padding: 30px;
+            padding-bottom: 60px;
+        }
+        
+        .login h1,
+        p {
+            text-align: center;
+        }
+        
+        #drop {
+            margin-right: 10px;
+            float: right;
+            border-radius: 10px;
+            background-color: cyan;
+            color: rgb(58, 58, 187);
+        }
+        
+        .form {
+            background-color: rgb(204, 168, 155);
+            padding-bottom: 10px;
+            padding-top: 20px;
+        }
+        
+        .form h2 {
+            text-align: center;
+        }
+        
+        .text {
+            margin-left: 110px;
+            padding: 5px;
+            text-align: center;
+            width: 320px;
+            border: none;
+            border-bottom: 3px solid orangered;
+        }
+        
+        .check {
+            margin-left: 171px;
+            ;
+        }
+        
+        .link {
+            margin-left: 209px;
+        }
+        
+        #butt {
+            text-align: center;
+            margin-left: 113px;
+            width: 160px;
+            padding: 8px;
+            background-color: blueviolet;
+            color: cornsilk;
+        }
+        
+        #reset {
+            text-align: center;
+            margin-left: 0px;
+            width: 160px;
+            padding: 8px;
+            background-color: blueviolet;
+            color: cornsilk;
+        }
+        
+        .form p a {
+            text-align: center;
+        }

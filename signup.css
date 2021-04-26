@@ -1,0 +1,82 @@
+* {
+    margin: auto;
+    padding: 0px;
+}
+
+body {
+    margin-left: 25px;
+    /* background-color: rgb(43, 79, 80); */
+    background-image: url(https://media.istockphoto.com/photos/dark-background-studio-room-backdrop-3-picture-id1137763400?k=6&m=1137763400&s=612x612&w=0&h=ibKCcS-0LTRPAOFeP-2AjmM308USf2hKDuQxT1Bgjx0=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    margin-top: 90px;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(237, 236, 245);
+    background-color: rgb(90, 31, 43);
+    background: none;
+}
+
+
+/* input:hover {
+          width: 400px;
+          border-top: 0px solid;
+          border-right: 0px solid;
+          border-left: 0px solid;
+          border-bottom: 1px solid #ff7200;
+          background: none;
+          padding: 10px;
+          font-size: 10px;
+          color: #fff; */
+
+.Input {
+    border-top: 0px solid;
+    border-right: 0px solid;
+    border-left: 0px solid;
+    border-bottom: 1px solid #ff7200;
+    background: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #fff;
+    width: 500px;
+}
+
+.form button {
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: chocolate;
+    color: white;
+    padding: 4px;
+    font-size: 20px;
+}
+
+
+/* .form button:hover {
+    height: 50px;
+    width: 250px;
+    color: beige;
+    background-color: blueviolet;
+    border-radius: 50px;
+} */
+
+a {
+    text-decoration: none;
+    color: rgb(90, 235, 22);
+}
+
+
+/* .form:hover {} */
+
+h1 {
+    color: whitesmoke;
+}
